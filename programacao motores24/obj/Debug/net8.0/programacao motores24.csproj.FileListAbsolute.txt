@@ -1,0 +1,14 @@
+D:\Users\20241170150005\Desktop\programacao motores24\bin\Debug\net8.0\programacao motores24.exe
+D:\Users\20241170150005\Desktop\programacao motores24\bin\Debug\net8.0\programacao motores24.deps.json
+D:\Users\20241170150005\Desktop\programacao motores24\bin\Debug\net8.0\programacao motores24.runtimeconfig.json
+D:\Users\20241170150005\Desktop\programacao motores24\bin\Debug\net8.0\programacao motores24.dll
+D:\Users\20241170150005\Desktop\programacao motores24\bin\Debug\net8.0\programacao motores24.pdb
+D:\Users\20241170150005\Desktop\programacao motores24\obj\Debug\net8.0\programacao motores24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150005\Desktop\programacao motores24\obj\Debug\net8.0\programacao motores24.AssemblyInfoInputs.cache
+D:\Users\20241170150005\Desktop\programacao motores24\obj\Debug\net8.0\programacao motores24.AssemblyInfo.cs
+D:\Users\20241170150005\Desktop\programacao motores24\obj\Debug\net8.0\programacao motores24.csproj.CoreCompileInputs.cache
+D:\Users\20241170150005\Desktop\programacao motores24\obj\Debug\net8.0\programacao motores24.dll
+D:\Users\20241170150005\Desktop\programacao motores24\obj\Debug\net8.0\refint\programacao motores24.dll
+D:\Users\20241170150005\Desktop\programacao motores24\obj\Debug\net8.0\programacao motores24.pdb
+D:\Users\20241170150005\Desktop\programacao motores24\obj\Debug\net8.0\programacao motores24.genruntimeconfig.cache
+D:\Users\20241170150005\Desktop\programacao motores24\obj\Debug\net8.0\ref\programacao motores24.dll
